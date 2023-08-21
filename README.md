@@ -6,7 +6,7 @@ Use Unity 2021.3.14f1c1(LST) + Visual Studio 2022
 
 # Preview
 #### short video
-[![Video Advanced Docking](Previews/video.png)](https://github.com/akivic1228/BatteryManagerSystemGame/blob/main/Previews/videoDemo.mp4)
+[![Video Advanced Docking](Previews/video.png)](https://youtu.be/K06j0ph4GzI)
 
 ##### Main menu
 ![main menu](https://github.com/akivic1228/BatteryManagerSystemGame/blob/main/Previews/main.png)
