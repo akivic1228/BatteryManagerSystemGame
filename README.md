@@ -1,2 +1,2 @@
 # BatteryManagerSystemGame
-This is a interaction system module crouse work built by Unity3D for C#.
+Use Unity 2021.3.14f1c1(LST) + Visual Studio 2022
