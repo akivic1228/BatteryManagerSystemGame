@@ -3,7 +3,9 @@
 Use Unity 2021.3.14f1c1(LST) + Visual Studio 2022
 
 ## Download
-Use Baiduyun link download here → [BSS V2.1](https://pan.baidu.com/s/1w4F7QVr8-V1BLv-f0SJV4w?pwd=1228)
+Use Baiduyun link download here → [BSS v2.0.0](https://pan.baidu.com/s/1w4F7QVr8-V1BLv-f0SJV4w?pwd=1228)
+
+or Release version download here → [BSS v2.0.0](https://github.com/akivic1228/BatteryManagerSystemGame/releases/download/bss/BSS.v2.1.zip) *(recommend)*
 
 ## Introduction AND User Guide
 See user guide for the interaction system here → [here for PDF](https://github.com/akivic1228/BatteryManagerSystemGame/blob/main/Previews/Instruction.pdf)
